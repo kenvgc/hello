@@ -1,3 +1,5 @@
 # hello
-This is Ken. 
-Love coding, new to Github
+
+Hello everybody !!
+
+This is Ken. I am new to Github !!
