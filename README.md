@@ -1,2 +1,3 @@
 # hello
-first test
+This is Ken. 
+Love coding, new to Github
